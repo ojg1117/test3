@@ -203,7 +203,7 @@ def create_bar_chart(evaluation_result):
 
 
 # 메인 헤더
-st.markdown('<h1 class="main-header">📚 초등학생 일기 평가 챗봇</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">📚 오재경선생님이 만든 초등학생 일기 평가 챗봇</h1>', unsafe_allow_html=True)
 
 # 탭 구성
 tab1, tab2 = st.tabs(["📝 일기 평가", "💬 PDF 기반 챗봇"])
